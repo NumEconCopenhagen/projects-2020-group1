@@ -1,5 +1,15 @@
-Hvorfor virker det ikke?
+#Initiate figure
+fig = plt.figure()
+ax = fig.add_subplot(1,1,1)
 
-Hej Christian12
+#Plotting consumptio and labor against wages
+ax.plot(w_vec, lab, ls = '--', lw = 2, color = 'black', label = 'labour')
+ax.plot(w_vec, con, ls = '-', lw = 2, color = 'blue', label = 'consumption')
 
-Virker det nu?
+#Formatting the visual presentation
+ax.set_xlabel('wages')
+ax.set_ylabel('labour & consumption')
+ax.set_title('Labour and consumption plotted against wages')
+ax.grid(True)
+ax.legend(loc = 'upper left')
+
