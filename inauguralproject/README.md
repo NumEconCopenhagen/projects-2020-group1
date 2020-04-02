@@ -1,7 +1,5 @@
 # Inaugural project
 
+The main point of this project is to solve and simulate a labor market model. We do this by applying different algorithm in order to optimize the model and present the results visually in the project. The labor market model is solved in (1) by optimizing the utility given the budget restriction. With the result from (1) we plotted the labor supply and consumption as a function of the labor wage, this is shown in (2). In (3) we are calculating the labor tax revenue followed by an analysis of how the elasticity of labor supply effect the labor tax revenue (4). Last, we find the optimal tax rates and cut-off for the labor income bracket (5).  
+
 The **results** of the project can be seen from running [inauguralproject.ipynb](inauguralproject.ipynb).
-
-**Dependencies:** Apart from a standard Anaconda Python 3 installation, the project requires no further packages.
-
-This project is focused on learning how to create algorithms in order to optimize desired paramaters. The main point of this project is optimizing utility in the labor supply problem focusing on optimal consumption and labor supply given a wage rate and other paramaters, such as labor supply elasticity and tax rates. However, in this project we will also analyze how adjusting these other paramaters impact the final results and if we can optimize the known paramaters to maximize tax revenenue.
