@@ -16,3 +16,4 @@ Country data: https://raw.githubusercontent.com/CSSEGISandData/COVID-19/web-data
 **Dependencies:** Apart from a standard Anaconda Python 3 installation, the project requires the following installations:
 
 ``pip install matplotlib-venn``
+  
