@@ -4,10 +4,14 @@ Our project is titled **Covid-19 from a international perspective** and is about
 
 The **results** of the project can be seen from running [dataproject.ipynb](dataproject.ipynb).
 
-This **loades two datasets**:
+This project **use four datasets**:
+death cases: https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv
 
-1. INDKP101.xlsx downloaded from statistikbanekn.dk/INDKP101
-1. RAS200.xlsx downloaded from statistikbanekn.dk/RAS200
+Confirmed cases: https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv
+
+Recovered cases: https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_recovered_global.csv
+
+Country data: https://raw.githubusercontent.com/CSSEGISandData/COVID-19/web-data/data/cases_country.csv
 
 **Dependencies:** Apart from a standard Anaconda Python 3 installation, the project requires the following installations:
 
