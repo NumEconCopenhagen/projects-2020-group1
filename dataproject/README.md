@@ -4,7 +4,7 @@ Our project is titled **Covid-19 from a international perspective** and is about
 
 The **results** of the project can be seen from running [dataproject.ipynb](dataproject.ipynb).
 
-This project **use four datasets**:
+This project **datasets**:
 death cases: https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv
 
 Confirmed cases: https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv
