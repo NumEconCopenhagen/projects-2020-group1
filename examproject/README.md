@@ -1,11 +1,11 @@
-# EXAMS PROJECT
+# Exams project
 
 The exam project consists of three different parts; Linear regression, Durable purchases and Gradient descent.
 
 The **results** of the project can be seen from running [exam_2020.ipynb](exam_2020.ipynb).
 
 
-**content:**
+**Content:**
 **Linear regression:** 
 Estimating and plotting a linear regression with two different solvers (OLS and LED). The results where shown in a plot. 
 In this exercise, we learned how to solve a linear regression with both OLS and LED and presenting the estimaters graficly.
