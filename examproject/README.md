@@ -12,7 +12,7 @@ In this exercise, we learned how to solve a linear regression with both OLS and 
 
 **Durable purchases:** 
 Optimizing and plotting different kinds of consumptions and valuefunction in an dynamic intertemperal household problem. 
-In this exercise, we learned how to optimize parameters in different time periods in an economic model. At last we leaned how to solve a model with a piecewise function.
+In this exercise, we learned how to optimize parameters in different time periods in an economic model.
 
 **Gradient descent:** 
 Creat and implement an algorithm for the purpose of finding a minimum in a function two dimentional function. 
